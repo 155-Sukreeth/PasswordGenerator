@@ -55,7 +55,7 @@ web_input.grid(column=1, row=1, columnspan=2)
 user_label = Label(text="Email/Username")
 user_label.grid(column=0, row=2)
 user_input = Entry(width=50)
-user_input.insert(index=0, string='sukreeth2001@gmail.com')
+user_input.insert(index=0, string='mydefaultaccount@gmail.com')
 user_input.grid(column=1, row=2, columnspan=2)
 
 pass_label = Label(text="Password")
